@@ -1,0 +1,55 @@
+body {
+  background: linear-gradient(135deg, #020617, #0f172a);
+  font-family: 'Arial Rounded MT Bold', Arial;
+  color: white;
+  text-align: center;
+}
+
+.app {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+}
+
+h1 {
+  color: #38bdf8;
+}
+
+.tagline {
+  font-size: 14px;
+  opacity: 0.9;
+}
+
+.ai-box {
+  background: #020617;
+  border: 2px solid #38bdf8;
+  border-radius: 15px;
+  padding: 15px;
+  margin: 15px 0;
+}
+
+.game-box {
+  background: #020617;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+button {
+  width: 100px;
+  padding: 12px;
+  margin: 10px;
+  border: none;
+  border-radius: 12px;
+  font-size: 16px;
+  cursor: pointer;
+  background: #22d3ee;
+}
+
+button:hover {
+  background: #0ea5e9;
+}
+
+.score {
+  margin-top: 15px;
+  font-size: 18px;
+  }
